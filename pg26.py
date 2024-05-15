@@ -7,4 +7,4 @@ while (i<n-2):
     print(c, end=' ')
     a=b
     b=c
-    i=i+2
+    i=i+1
